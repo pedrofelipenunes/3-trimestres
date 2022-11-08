@@ -1,1 +1,11 @@
 boby {background-color:#3faf; text-align: justify; font-size: 18px;}
+h1 {text-align: center;background-color: #17313B;}
+h3 {text-align: justify; color: #1f7a79;}
+b{color: blue; font-size: 18px;} 
+i {color: blue; font-size: 18px;}
+header, footer{background-color: #499CBA; color: #ceeffc; text-align: conter; font-size: 20px;}
+main {background-color: #8ddefc;}
+.PRIMEIROPARAGRAFO {text-align: justify; font-size: 18px; bonder: black solid 2px; padding: 10px; margin: 10px;}
+.SEGUNDOPARAGRAFO {text-align: justify; font-size: 18px; bonder: black solid 2px; padding: 10px;}
+#TITULOIMAGEM {width: 5% ; height: 5%;}
+#lista {display: inline-block;}
